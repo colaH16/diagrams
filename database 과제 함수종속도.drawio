@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T16:29:43.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="tFv787IC1W1h9I5V-FWg" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T16:31:34.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="aHA1r0jfdMkRjdK3n0yK" version="13.11.0" type="github">
   <diagram id="IR_PplZbTVJrm1HBBOYb" name="Page-1">
     <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,10 +97,10 @@
         <mxCell id="iUbfSdUz5nUS5H7Qf6q6-37" value="&lt;h2&gt;주문시각, 고객이름, 지불방식&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=NanumGothicCoding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanumGothicCoding;direction=east;" parent="1" vertex="1">
           <mxGeometry x="480" y="177" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iUbfSdUz5nUS5H7Qf6q6-38" value="&lt;font size=&quot;4&quot;&gt;&lt;b&gt;수량&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=NanumGothicCoding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanumGothicCoding;direction=east;" parent="1" vertex="1">
+        <mxCell id="iUbfSdUz5nUS5H7Qf6q6-38" value="&lt;font size=&quot;4&quot;&gt;&lt;b&gt;수량&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Nanum Gothic Coding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic%2BCoding;direction=east;" parent="1" vertex="1">
           <mxGeometry x="480" y="259" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iUbfSdUz5nUS5H7Qf6q6-39" value="&lt;h2&gt;메뉴이름, 사이즈, 가격&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=NanumGothicCoding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanumGothicCoding;direction=east;" parent="1" vertex="1">
+        <mxCell id="iUbfSdUz5nUS5H7Qf6q6-39" value="&lt;h2&gt;메뉴이름, 사이즈, 가격&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Nanum Gothic Coding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic%2BCoding;direction=east;" parent="1" vertex="1">
           <mxGeometry x="480" y="377" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iUbfSdUz5nUS5H7Qf6q6-40" value="&lt;h2&gt;재료양&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Nanum Gothic Coding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic%2BCoding;direction=east;" parent="1" vertex="1">
@@ -139,7 +139,7 @@
         <mxCell id="y6d4Ip5XYl7YWh4XDt6M-10" value="&lt;h3 style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;nanum gothic coding&amp;#34;&quot;&gt;모든 결정자가 Key이므로 BCNF&amp;nbsp;&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="519" y="1000" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="y6d4Ip5XYl7YWh4XDt6M-11" value="&lt;h2&gt;분류&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=NanumGothicCoding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanumGothicCoding;direction=east;" vertex="1" parent="1">
+        <mxCell id="y6d4Ip5XYl7YWh4XDt6M-11" value="&lt;h2&gt;분류&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Nanum Gothic Coding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic%2BCoding;direction=east;" vertex="1" parent="1">
           <mxGeometry x="480" y="446" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y6d4Ip5XYl7YWh4XDt6M-12" value="&lt;h3 style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;nanum gothic coding&amp;#34;&quot;&gt;모든 결정자가 Key이므로 BCNF&amp;nbsp;&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=NanumGothicCoding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanumGothicCoding;direction=east;" vertex="1" parent="1">
@@ -163,7 +163,7 @@
         <mxCell id="y6d4Ip5XYl7YWh4XDt6M-18" value="&lt;font size=&quot;4&quot;&gt;&lt;b&gt;거래번호&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Nanum Gothic Coding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic%2BCoding;labelPosition=center;verticalLabelPosition=middle;direction=east;" vertex="1" parent="1">
           <mxGeometry x="270" y="325" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="y6d4Ip5XYl7YWh4XDt6M-19" value="&lt;font size=&quot;4&quot;&gt;&lt;b&gt;메뉴번호&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=NanumGothicCoding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanumGothicCoding;direction=east;" vertex="1" parent="1">
+        <mxCell id="y6d4Ip5XYl7YWh4XDt6M-19" value="&lt;font size=&quot;4&quot;&gt;&lt;b&gt;메뉴번호&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Nanum Gothic Coding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic%2BCoding;direction=east;" vertex="1" parent="1">
           <mxGeometry x="480" y="325" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="y6d4Ip5XYl7YWh4XDt6M-20" value="&lt;h3 style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;nanum gothic coding&amp;#34;&quot;&gt;당연종속이므로 BCNF&lt;/h3&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=NanumGothicCoding;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanumGothicCoding;direction=east;" vertex="1" parent="1">
